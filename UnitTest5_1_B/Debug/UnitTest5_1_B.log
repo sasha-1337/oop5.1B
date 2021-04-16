@@ -1,0 +1,3 @@
+﻿  UnitTest5_1_B.cpp
+D:\Student\oop5.1B\oop5.1B\Money.cpp(209): warning C4715: operator/: значение возвращается не при всех путях выполнения
+  UnitTest5_1_B.vcxproj -> D:\Student\oop5.1B\Debug\UnitTest5_1_B.dll
